@@ -1,0 +1,1 @@
+JSON merupakan salah satu format penulisan yang digunakan untuk pertukaran data melalui REST API.
